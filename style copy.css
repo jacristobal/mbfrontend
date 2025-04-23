@@ -1,0 +1,31 @@
+body {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color:#3e075a;
+}
+
+/*For filler image*/
+.map {
+    height: 50em;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.topnav {
+    border-radius: 8px;
+    box-shadow: #CCCCCC;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#nearbyStops{
+    color: #7A00A3;
+}
